@@ -1,0 +1,44 @@
+{
+  "games": [
+    {
+      "id": "oEeLwGMIszE",
+      "name": "Monopoly",
+      "price": 30,
+      "madeIn": "Tunisie",
+      "category": "Jeux de société",
+      "isNew": false,
+      "shops": [
+        "Tunis",
+        "Sousse"
+      ]
+    },
+    {
+      "id": "GlKqPcqOKrs",
+      "name": "fff",
+      "price": 12,
+      "madeIn": "Tunisie",
+      "category": "Puzzle",
+      "isNew": true,
+      "shops": []
+    },
+    {
+      "id": "l8ltU2I3vMY",
+      "name": "",
+      "price": 0,
+      "madeIn": "Tunisie",
+      "category": "Puzzle",
+      "isNew": true,
+      "shops": []
+    },
+    {
+      "id": "gZOhuL7KQ_Y",
+      "name": "fff",
+      "price": 12,
+      "madeIn": "Tunisie",
+      "category": "Sport",
+      "isNew": true,
+      "shops": []
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
